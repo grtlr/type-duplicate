@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "type-duplicate",
+    "type-duplicate-derive"
+]
